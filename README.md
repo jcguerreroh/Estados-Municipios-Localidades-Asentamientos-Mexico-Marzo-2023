@@ -1,4 +1,12 @@
 # Estados-Municipios-Localidades-Asentamientos-Mexico-Marzo-2023
+
+Dóname en PayPal
+
+paypal.me/juancaguerrero 
+
+Gracias!
+
+
 Tablas para SQL Server
 
 En este archivo comprimido se encuentra un respaldo en formato BAK de la base de datos "MexicoDB" la cual contiene las siguientes tablas:
